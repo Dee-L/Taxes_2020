@@ -2,7 +2,7 @@
 requirements_df <-
   data.frame(
     required_rda_files =
-      c("outputs/09_tax_reporting.rda"),
+      c("outputs/09_tax_reporting_new.rda"),
     
     source_scripts =
       c("scripts/09_tax_reporting.r"),
